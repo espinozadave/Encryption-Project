@@ -2,7 +2,7 @@
 
 ## Objective
 
-This home lab project aimed to establish a strong understanding of Encryption and Decryption using AES, RSA, and other modes. The primary focus was to:
+This home lab project aimed to establish a strong understanding of Encryption and Decryption. The primary focus of this project was to:
 Generate a key with aes as the encryption/decryption algorithm.
 Using ECB, CBC, CFB, OFB, and CTR modes to encrypt and decrypt your message.
 Introduce errors in your plain text. Perform the encryption and decryption with the 5 operation modes
