@@ -1,9 +1,15 @@
-# PROJECTNAME
+# Encryption and Decryption of AES, RSA, and other modes using Python 
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This home lab project aimed to establish a strong understanding of Encryption and Decryption using AES, RSA, and other modes. The primary focus was to:
+Generate a key with aes as the encryption/decryption algorithm.
+Using ECB, CBC, CFB, OFB, and CTR modes to encrypt and decrypt your message.
+Introduce errors in your plain text. Perform the encryption and decryption with the 5 operation modes
+again. Check how many blocks the errors propagated in each mode. Discuss if the propagations are as
+expected.
+
+This hands-on experience was designed to deepen my understanding of how to encrypt and decrypt with the use of different modes and to see the outcome of which modes are better to use.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
