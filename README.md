@@ -15,7 +15,7 @@ This hands-on experience was designed to deepen my understanding of how to encry
 
 
 
-##### Skills Learned
+## Skills Learned
 [Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
