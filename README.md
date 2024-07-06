@@ -18,7 +18,7 @@ This hands-on experience was designed to deepen my understanding of how to encry
 
 - Generate a key using AES and other modes.
 - Generate a key using RSA.
-- Python scripting
+- Python coding
 
 
 ### Tools Used
